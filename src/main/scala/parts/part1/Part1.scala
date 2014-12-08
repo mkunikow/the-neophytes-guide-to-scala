@@ -24,6 +24,7 @@ object Part1 extends App {
 
 
     //Extracting single value
+    //def unapply(object: S): Some[(T1)]
     {
         printHeader("Extracting single value")
 
@@ -55,7 +56,8 @@ object Part1 extends App {
 
     }
 
-    //    Extracting several values
+    //Extracting several values
+    //def unapply(object: S): Option[(T1, ..., Tn)]
     {
         printHeader("Extracting several values")
 
@@ -90,6 +92,7 @@ object Part1 extends App {
     }
 
     //A Boolean extractor
+    //def unapply(object: S): Boolean
     {
         printHeader("A Boolean extractor")
 

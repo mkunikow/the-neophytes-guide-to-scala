@@ -1,10 +1,11 @@
-package parts.part2
+package parts
+
 import common.printer.printHeader
 /**
  * Created by michal on 12/7/14.
  * The Neophyte's Guide to Scala Part 2: Extracting Sequences
  */
-object Part2 extends App {
+object part2 extends App {
     {
         printHeader("Pattern matches some number of elements")
         val xs = 3 :: 6 :: 12 :: Nil

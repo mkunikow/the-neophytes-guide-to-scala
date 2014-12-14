@@ -1,11 +1,12 @@
-package parts.part1
+package parts
+
 import common.printer.printHeader
 
 /**
  * Created by michal on 12/7/14.
  * The Neophyte's Guide to Scala Part 1: Extractors
  */
-object Part1 extends App {
+object part1 extends App {
     {
         printHeader("Extracting list values")
 

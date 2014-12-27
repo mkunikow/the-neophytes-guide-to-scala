@@ -4,7 +4,7 @@ import common.printer.printHeader
 
 /**
  * Created by michal on 12/13/14.
- * Part 3: Patterns Everywhere
+ * The Neophyte's Guide to Scala Part 3: Patterns Everywhere
  */
 object part3  extends App {
 

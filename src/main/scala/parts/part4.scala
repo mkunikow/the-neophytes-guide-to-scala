@@ -4,7 +4,7 @@ import common.printer.printHeader
 
 /**
  * Created by michal on 12/13/14.
- * Part 4: Pattern Matching Anonymous Functions
+ * The Neophyte's Guide to Scala Part 4: Pattern Matching Anonymous Functions
  */
 object part4 extends App {
   {

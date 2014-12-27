@@ -3,7 +3,7 @@ import common.printer._
 
 /**
  * Created by michal on 12/22/14.
- * Part 6: Error Handling With Try
+ * The Neophyte's Guide to Scala Part 6: Error Handling With Try
  */
 object part6 extends App {
 

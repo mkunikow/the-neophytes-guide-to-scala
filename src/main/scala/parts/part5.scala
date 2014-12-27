@@ -3,7 +3,7 @@ import common.printer._
 
 /**
  * Created by michal on 12/21/14.
- * Part 5: The Option Type
+ * The Neophyte's Guide to Scala Part 5: The Option Type
  */
 object part5 extends App {
 
